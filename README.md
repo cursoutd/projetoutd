@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 	</head>
+	<body>
 	<header>
 	 
                                               <!--  Menu -->
@@ -39,7 +40,7 @@
 
 </header>
 
-<body>
+
 
 <main>
      
